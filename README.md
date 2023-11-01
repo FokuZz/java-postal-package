@@ -94,12 +94,12 @@ ___
 
 ## ☑️ Покрытие тестами не менее 70%:
 
-![Тесты](https://github.com/FokuZz/java-postal-package/tree/main/src/main/resources/templates/tests.jpeg)
+![Тесты](https://github.com/FokuZz/java-postal-package/blob/main/src/main/resources/templates/tests.jpg)
 
 ___
 ## 📷 ER диаграмма проекта:
 
-![Схема модулей приложения](https://github.com/FokuZz/java-postal-package/tree/main/src/main/resources/templates/database.jpeg)
+![Схема модулей приложения](https://github.com/FokuZz/java-postal-package/blob/main/src/main/resources/templates/database.jpeg)
 
 ___
 
